@@ -7,7 +7,7 @@ function randomAdviceNumber(min,max){
     return Math.floor(Math.random() * (max - min) + 0);
 }
 
-theDice.addEventListener("click", () =>{
+theDice.addEventListener("click touchstart", () =>{
     var allAdvices = Object.entries(advices)[randomAdviceNumber(0,103)]
     theId.innerHTML = allAdvices[1].adviceId
     theAdvice.innerHTML = `“${allAdvices[1].adviceContent}”` 
