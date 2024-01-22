@@ -3,9 +3,7 @@
     box-sizing: border-box;
 }
 .grand{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    position: relative;
     height: 90dvh;
     width: auto;
     background-color:  hsl(218, 23%, 16%);
@@ -18,7 +16,10 @@
     padding: 2rem;
     background-color: hsl(217, 19%, 24%);
     border-radius: 10px;
-    position: relative;
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    transform: translate(-50%,0);
 }
 .content .adviceTitle{
     display: inline-flex;
