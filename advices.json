@@ -1,414 +1,414 @@
-{
-    "advice1" : {
-        "adviceId" : 1,
-        "adviceContent" : "The Road to Easy Street goes through the sewer."
-    },
-    "advice2" : {
-        "adviceId" : 2,
-        "adviceContent" : "Fight or Flight."
-    },
-    "advice3" : {
-        "adviceId" : 3,
-        "adviceContent" : "Be yourself; everyone else is already taken."
-    },
-    "advice4" : {
-        "adviceId" : 4,
-        "adviceContent" : "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
-    },
-    "advice5" : {
-        "adviceId" : 5,
-        "adviceContent" : "A room without books is like a body without a soul."
-    },
-    "advice6" : {
-        "adviceId" : 6,
-        "adviceContent" : "You only live once, but if you do it right, once is enough"
-    },
-    "advice7" : {
-        "adviceId" : 7,
-        "adviceContent" : "Be the change that you wish to see in the world."
-    },
-    "advice8" : {
-        "adviceId" : 8,
-        "adviceContent" : "In three words I can sum up everything I've learned about life: IT GOES ON."
-    },
-    "advice9" : {
-        "adviceId" : 9,
-        "adviceContent" : "If you tell the truth, you don't have to remember anything."
-    },
-    "advice10" : {
-        "adviceId" : 10,
-        "adviceContent" : "A friend is someone who knows all about you and still loves you."
-    },
-    "advice11" : {
-        "adviceId" : 11,
-        "adviceContent" : "To live is the rarest thing in the world. Most people exist, that is all."
-    },
-    "advice12" : {
-        "adviceId" : 12,
-        "adviceContent" : "Live as if you were to die tomorrow. Learn as if you were to live forever."
-    },
-    "advice13" : {
-        "adviceId" : 13,
-        "adviceContent" : "I am so clever that sometimes I don't understand a single word of what I am saying."
-    },
-    "advice14" : {
-        "adviceId" : 14,
-        "adviceContent" : "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
-    },
-    "advice15" : {
-        "adviceId" : 15,
-        "adviceContent" : "The greatest glory in living lies not in never falling, but in rising every time we fall."
-    },
-    "advice16" : {
-        "adviceId" : 16,
-        "adviceContent" : "The way to get started is to quit talking and begin doing."
-    },
-    "advice17" : {
-        "adviceId" : 17,
-        "adviceContent" : "Your time is limited, so don't waste it living someone else's life."
-    },
-    "advice18" : {
-        "adviceId" : 18,
-        "adviceContent" : "Don't be trapped by dogma - Which is living with the results of other people's thinking."
-    },
-    "advice19" : {
-        "adviceId" : 19,
-        "adviceContent" : "The future belongs to those who believe in the beauty of their dreams."
-    },
-    "advice20" : {
-        "adviceId" : 20,
-        "adviceContent" : "God Comes First. "
-    },
-    "advice21" : {
-        "adviceId" : 21,
-        "adviceContent" : "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. "
-    },
-    "advice22" : {
-        "adviceId" : 22,
-        "adviceContent" : "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one."
-    },
-    "advice23" : {
-        "adviceId" : 23,
-        "adviceContent" : "You must be the change you wish to see in the world"
-    },
-    "advice24" : {
-        "adviceId" : 24,
-        "adviceContent" : "The only thing we have to fear is fear itself."
-    },
-    "advice25" : {
-        "adviceId" : 25,
-        "adviceContent" : "Spread love everywhere you go. Let no one ever come to you without leaving happier. "
-    },
-    "advice26" : {
-        "adviceId" : 26,
-        "adviceContent" : "Do one thing every day that scares you."
+[
+    {
+        "id" : 1,
+        "content" : "The Road to Easy Street goes through the sewer."
+    },
+    {
+        "id" : 2,
+        "content" : "Fight or Flight."
+    },
+    {
+        "id" : 3,
+        "content" : "Be yourself; everyone else is already taken."
+    },
+    {
+        "id" : 4,
+        "content" : "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
+    },
+    {
+        "id" : 5,
+        "content" : "A room without books is like a body without a soul."
+    },
+    {
+        "id" : 6,
+        "content" : "You only live once, but if you do it right, once is enough"
+    },
+    {
+        "id" : 7,
+        "content" : "Be the change that you wish to see in the world."
+    },
+    {
+        "id" : 8,
+        "content" : "In three words I can sum up everything I've learned about life: IT GOES ON."
+    },
+    {
+        "id" : 9,
+        "content" : "If you tell the truth, you don't have to remember anything."
+    },
+     {
+        "id" : 10,
+        "content" : "A friend is someone who knows all about you and still loves you."
+    },
+     {
+        "id" : 11,
+        "content" : "To live is the rarest thing in the world. Most people exist, that is all."
+    },
+     {
+        "id" : 12,
+        "content" : "Live as if you were to die tomorrow. Learn as if you were to live forever."
+    },
+     {
+        "id" : 13,
+        "content" : "I am so clever that sometimes I don't understand a single word of what I am saying."
+    },
+     {
+        "id" : 14,
+        "content" : "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+    },
+     {
+        "id" : 15,
+        "content" : "The greatest glory in living lies not in never falling, but in rising every time we fall."
+    },
+     {
+        "id" : 16,
+        "content" : "The way to get started is to quit talking and begin doing."
+    },
+     {
+        "id" : 17,
+        "content" : "Your time is limited, so don't waste it living someone else's life."
+    },
+     {
+        "id" : 18,
+        "content" : "Don't be trapped by dogma - Which is living with the results of other people's thinking."
+    },
+     {
+        "id" : 19,
+        "content" : "The future belongs to those who believe in the beauty of their dreams."
+    },
+     {
+        "id" : 20,
+        "content" : "God Comes First. "
+    },
+     {
+        "id" : 21,
+        "content" : "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. "
+    },
+     {
+        "id" : 22,
+        "content" : "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one."
+    },
+     {
+        "id" : 23,
+        "content" : "You must be the change you wish to see in the world"
+    },
+     {
+        "id" : 24,
+        "content" : "The only thing we have to fear is fear itself."
+    },
+     {
+        "id" : 25,
+        "content" : "Spread love everywhere you go. Let no one ever come to you without leaving happier. "
+    },
+     {
+        "id" : 26,
+        "content" : "Do one thing every day that scares you."
     },
-    "advice27" : {
-        "adviceId" : 27,
-        "adviceContent" : "Well done is better than well said. "
+     {
+        "id" : 27,
+        "content" : "Well done is better than well said. "
     },
-    "advice28" : {
-        "adviceId" : 28,
-        "adviceContent" : "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. "
+     {
+        "id" : 28,
+        "content" : "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. "
     },
-    "advice29" : {
-        "adviceId" : 29,
-        "adviceContent" : "Be yourself; everyone else is already taken."
+     {
+        "id" : 29,
+        "content" : "Be yourself; everyone else is already taken."
     },
-    "advice30" : {
-        "adviceId" : 30,
-        "adviceContent" : "It is during our darkest moments that we must focus to see the light."
+     {
+        "id" : 30,
+        "content" : "It is during our darkest moments that we must focus to see the light."
     },
-    "advice31" : {
-        "adviceId" : 31,
-        "adviceContent" : "You will face many defeats in life, but never let yourself be defeated."
+     {
+        "id" : 31,
+        "content" : "You will face many defeats in life, but never let yourself be defeated."
     },
-    "advice32" : {
-        "adviceId" : 32,
-        "adviceContent" : "Go confidently in the direction of your dreams! Live the life you've imagined. "
+     {
+        "id" : 32,
+        "content" : "Go confidently in the direction of your dreams! Live the life you've imagined. "
     },
-    "advice33" : {
-        "adviceId" : 33,
-        "adviceContent" : "In the end, it's not the years in your life that count. It's the life in your years. "
+     {
+        "id" : 33,
+        "content" : "In the end, it's not the years in your life that count. It's the life in your years. "
     },
-    "advice34" : {
-        "adviceId" : 34,
-        "adviceContent" : "Never let the fear of striking out keep you from playing the game."
+     {
+        "id" : 34,
+        "content" : "Never let the fear of striking out keep you from playing the game."
     },
-    "advice35" : {
-        "adviceId" : 35,
-        "adviceContent" : "In this life we cannot do great things. We can only do small things with great love."
+     {
+        "id" : 35,
+        "content" : "In this life we cannot do great things. We can only do small things with great love."
     },
-    "advice36" : {
-        "adviceId" : 36,
-        "adviceContent" : "Many of life's failures are people who did not realize how close they were to success when they gave up."
+     {
+        "id" : 36,
+        "content" : "Many of life's failures are people who did not realize how close they were to success when they gave up."
     },
-    "advice37" : {
-        "adviceId" : 37,
-        "adviceContent" : "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."
+     {
+        "id" : 37,
+        "content" : "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."
     },
-    "advice38" : {
-        "adviceId" : 38,
-        "adviceContent" : "Don't worry when you are not recognized, but strive to be worthy of recognition."
+     {
+        "id" : 38,
+        "content" : "Don't worry when you are not recognized, but strive to be worthy of recognition."
     },
-    "advice39" : {
-        "adviceId" : 39,
-        "adviceContent" : "Life is really simple, but we insist on making it complicated."
+     {
+        "id" : 39,
+        "content" : "Life is really simple, but we insist on making it complicated."
     },
-    "advice40" : {
-        "adviceId" : 40,
-        "adviceContent" : "Do not let making a living prevent you from making a life."
+     {
+        "id" : 40,
+        "content" : "Do not let making a living prevent you from making a life."
     },
-    "advice41" : {
-        "adviceId" : 41,
-        "adviceContent" : "Life is a long lesson in humility."
+     {
+        "id" : 41,
+        "content" : "Life is a long lesson in humility."
     },
-    "advice42" : {
-        "adviceId" : 42,
-        "adviceContent" : "Life is either a daring adventure or nothing."
+     {
+        "id" : 42,
+        "content" : "Life is either a daring adventure or nothing."
     },
-    "advice43" : {
-        "adviceId" : 43,
-        "adviceContent" : "Life is made of ever so many partings welded together. "
+     {
+        "id" : 43,
+        "content" : "Life is made of ever so many partings welded together. "
     },
-    "advice44" : {
-        "adviceId" : 44,
-        "adviceContent" : "In the depth of winter, I finally learned that within me there lay an invincible summer."
+     {
+        "id" : 44,
+        "content" : "In the depth of winter, I finally learned that within me there lay an invincible summer."
     },
-    "advice45" : {
-        "adviceId" : 45,
-        "adviceContent" : "Success usually comes to those who are too busy to be looking for it."
+     {
+        "id" : 45,
+        "content" : "Success usually comes to those who are too busy to be looking for it."
     },
-    "advice46" : {
-        "adviceId" : 46,
-        "adviceContent" : "Success is not final; failure is not fatal: It is the courage to continue that counts."
+     {
+        "id" : 46,
+        "content" : "Success is not final; failure is not fatal: It is the courage to continue that counts."
     },
-    "advice47" : {
-        "adviceId" : 47,
-        "adviceContent" : "If you want to make your dreams come true, the first thing you have to do is wake up. "
+     {
+        "id" : 47,
+        "content" : "If you want to make your dreams come true, the first thing you have to do is wake up. "
     },
-    "advice48" : {
-        "adviceId" : 48,
-        "adviceContent" : "If you really look closely, most overnight successes took a long time."
+     {
+        "id" : 48,
+        "content" : "If you really look closely, most overnight successes took a long time."
     },
-    "advice49" : {
-        "adviceId" : 49,
-        "adviceContent" : "The secret of success is to do the common thing uncommonly well."
+     {
+        "id" : 49,
+        "content" : "The secret of success is to do the common thing uncommonly well."
     },
-    "advice50" : {
-        "adviceId" : 50,
-        "adviceContent" : "Everything you can imagine is real."
+     {
+        "id" : 50,
+        "content" : "Everything you can imagine is real."
     },
-    "advice51" : {
-        "adviceId" : 51,
-        "adviceContent" : "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."
+     {
+        "id" : 51,
+        "content" : "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."
     },
-    "advice52" : {
-        "adviceId" : 52,
-        "adviceContent" : "The only limit to our realization of tomorrow will be our doubts of today."
+     {
+        "id" : 52,
+        "content" : "The only limit to our realization of tomorrow will be our doubts of today."
     },
-    "advice53" : {
-        "adviceId" : 53,
-        "adviceContent" : "It is better to fail in originality than to succeed in imitation."
+     {
+        "id" : 53,
+        "content" : "It is better to fail in originality than to succeed in imitation."
     },
-    "advice54" : {
-        "adviceId" : 54,
-        "adviceContent" : "Always remember, your focus determines your reality."
+     {
+        "id" : 54,
+        "content" : "Always remember, your focus determines your reality."
     },
-    "advice55" : {
-        "adviceId" : 55,
-        "adviceContent" : "To be successful, you have to be selfish, or else you never achieve. And once you get to your highest level, then you have to be unselfish."
+     {
+        "id" : 55,
+        "content" : "To be successful, you have to be selfish, or else you never achieve. And once you get to your highest level, then you have to be unselfish."
     },
-    "advice56" : {
-        "adviceId" : 56,
-        "adviceContent" : "Try not to become a man of success. Rather become a man of value."
+     {
+        "id" : 56,
+        "content" : "Try not to become a man of success. Rather become a man of value."
     },
-    "advice57" : {
-        "adviceId" : 57,
-        "adviceContent" : "Success is walking from failure to failure with no loss of enthusiasm."
+     {
+        "id" : 57,
+        "content" : "Success is walking from failure to failure with no loss of enthusiasm."
     },
-    "advice58" : {
-        "adviceId" : 58,
-        "adviceContent" : "When you undervalue what you do, the world will undervalue who you are."
+     {
+        "id" : 58,
+        "content" : "When you undervalue what you do, the world will undervalue who you are."
     },
-    "advice59" : {
-        "adviceId" : 59,
-        "adviceContent" : "If you genuinely want something, don't wait for it — teach yourself to be impatient."
+     {
+        "id" : 59,
+        "content" : "If you genuinely want something, don't wait for it — teach yourself to be impatient."
     },
-    "advice60" : {
-        "adviceId" : 60,
-        "adviceContent" : "If you are not willing to risk the usual, you will have to settle for the ordinary."
+     {
+        "id" : 60,
+        "content" : "If you are not willing to risk the usual, you will have to settle for the ordinary."
     },
-    "advice61" : {
-        "adviceId" : 61,
-        "adviceContent" : "Before anything else, preparation is the key to success."
+     {
+        "id" : 61,
+        "content" : "Before anything else, preparation is the key to success."
     },
-    "advice62" : {
-        "adviceId" : 62,
-        "adviceContent" : "You miss 100% of the shots you don't take."
+     {
+        "id" : 62,
+        "content" : "You miss 100% of the shots you don't take."
     },
-    "advice63" : {
-        "adviceId" : 63,
-        "adviceContent" : "Whether you think you can or you think you can't, you're right."
+     {
+        "id" : 63,
+        "content" : "Whether you think you can or you think you can't, you're right."
     },
-    "advice64" : {
-        "adviceId" : 64,
-        "adviceContent" : "I have learned over the years that when one's mind is made up, this diminishes fear."
+     {
+        "id" : 64,
+        "content" : "I have learned over the years that when one's mind is made up, this diminishes fear."
     },
-    "advice65" : {
-        "adviceId" : 65,
-        "adviceContent" : "I alone cannot change the world, but I can cast a stone across the water to create many ripples. "
+     {
+        "id" : 65,
+        "content" : "I alone cannot change the world, but I can cast a stone across the water to create many ripples. "
     },
-    "advice66" : {
-        "adviceId" : 66,
-        "adviceContent" : "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+     {
+        "id" : 66,
+        "content" : "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
     },
-    "advice67" : {
-        "adviceId" : 67,
-        "adviceContent" : "The only person you are destined to become is the person you decide to be."
+     {
+        "id" : 67,
+        "content" : "The only person you are destined to become is the person you decide to be."
     },
-    "advice68" : {
-        "adviceId" : 68,
-        "adviceContent" : "The question isn't who is going to let me; it's who is going to stop me."
+     {
+        "id" : 68,
+        "content" : "The question isn't who is going to let me; it's who is going to stop me."
     },
-    "advice69" : {
-        "adviceId" : 69,
-        "adviceContent" : "Winning isn't everything, but wanting to win is."
+     {
+        "id" : 69,
+        "content" : "Winning isn't everything, but wanting to win is."
     },
-    "advice70" : {
-        "adviceId" : 70,
-        "adviceContent" : "An unexamined life is not worth living."
+     {
+        "id" : 70,
+        "content" : "An unexamined life is not worth living."
     },
-    "advice71" : {
-        "adviceId" : 71,
-        "adviceContent" : "Dream big and dare to fail."
+     {
+        "id" : 71,
+        "content" : "Dream big and dare to fail."
     },
-    "advice72" : {
-        "adviceId" : 72,
-        "adviceContent" : "Courage is grace under pressure."
+     {
+        "id" : 72,
+        "content" : "Courage is grace under pressure."
     },
-    "advice73" : {
-        "adviceId" : 73,
-        "adviceContent" : "It does not matter how slowly you go as long as you do not stop."
+     {
+        "id" : 73,
+        "content" : "It does not matter how slowly you go as long as you do not stop."
     },
-    "advice74" : {
-        "adviceId" : 74,
-        "adviceContent" : "Don't find fault, find a remedy: anyone can complain."
+     {
+        "id" : 74,
+        "content" : "Don't find fault, find a remedy: anyone can complain."
     },
-    "advice75" : {
-        "adviceId" : 75,
-        "adviceContent" : "A man may die, nations may rise and fall, but an idea lives on."
+     {
+        "id" : 75,
+        "content" : "A man may die, nations may rise and fall, but an idea lives on."
     },
-    "advice76" : {
-        "adviceId" : 76,
-        "adviceContent" : "I didn't fail the test. I just found 100 ways to do it wrong."
+     {
+        "id" : 76,
+        "content" : "I didn't fail the test. I just found 100 ways to do it wrong."
     },
-    "advice77" : {
-        "adviceId" : 77,
-        "adviceContent" : "If you're offered a seat on a rocket ship, don't ask what seat! Just get on."
+     {
+        "id" : 77,
+        "content" : "If you're offered a seat on a rocket ship, don't ask what seat! Just get on."
     },
-    "advice78" : {
-        "adviceId" : 78,
-        "adviceContent" : "With great power comes great responsibility."
+     {
+        "id" : 78,
+        "content" : "With great power comes great responsibility."
     },
-    "advice79" : {
-        "adviceId" : 79,
-        "adviceContent" : "I would rather die of passion than of boredom."
+     {
+        "id" : 79,
+        "content" : "I would rather die of passion than of boredom."
     },
-    "advice80" : {
-        "adviceId" : 80,
-        "adviceContent" : "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough."
+     {
+        "id" : 80,
+        "content" : "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough."
     },
-    "advice81" : {
-        "adviceId" : 81,
-        "adviceContent" : "Get busy living or get busy dying."
+     {
+        "id" : 81,
+        "content" : "Get busy living or get busy dying."
     },
-    "advice82" : {
-        "adviceId" : 82,
-        "adviceContent" : "If you want to live a happy life, tie it to a goal, not to people or things."
+     {
+        "id" : 82,
+        "content" : "If you want to live a happy life, tie it to a goal, not to people or things."
     },
-    "advice83" : {
-        "adviceId" : 83,
-        "adviceContent" : "Money and success don’t change people; they merely amplify what is already there."
+     {
+        "id" : 83,
+        "content" : "Money and success don’t change people; they merely amplify what is already there."
     },
-    "advice84" : {
-        "adviceId" : 84,
-        "adviceContent" : "The whole secret of a successful life is to find out what is one’s destiny to do, and then do it."
+     {
+        "id" : 84,
+        "content" : "The whole secret of a successful life is to find out what is one’s destiny to do, and then do it."
     },
-    "advice85" : {
-        "adviceId" : 85,
-        "adviceContent" : "The big lesson in life, baby, is never be scared of anyone or anything."
+     {
+        "id" : 85,
+        "content" : "The big lesson in life, baby, is never be scared of anyone or anything."
     },
-    "advice86" : {
-        "adviceId" : 86,
-        "adviceContent" : "Curiosity about life in all of its aspects, I think, is still the secret of great creative people."
+     {
+        "id" : 86,
+        "content" : "Curiosity about life in all of its aspects, I think, is still the secret of great creative people."
     },
-    "advice87" : {
-        "adviceId" : 87,
-        "adviceContent" : "Life is not a problem to be solved, but a reality to be experienced."
+     {
+        "id" : 87,
+        "content" : "Life is not a problem to be solved, but a reality to be experienced."
     },
-    "advice88" : {
-        "adviceId" : 88,
-        "adviceContent" : "Turn your wounds into wisdom"
+     {
+        "id" : 88,
+        "content" : "Turn your wounds into wisdom"
     },
-    "advice89" : {
-        "adviceId" : 89,
-        "adviceContent" : "The way I see it, if you want the rainbow, you gotta put up with the rain."
+     {
+        "id" : 89,
+        "content" : "The way I see it, if you want the rainbow, you gotta put up with the rain."
     },
-    "advice90" : {
-        "adviceId" : 90,
-        "adviceContent" : "Don’t settle for what life gives you; make life better and build something."
+     {
+        "id" : 90,
+        "content" : "Don’t settle for what life gives you; make life better and build something."
     },
-    "advice91" : {
-        "adviceId" : 91,
-        "adviceContent" : "Everything negative - pressure, challenges - is all an opportunity for me to rise."
+     {
+        "id" : 91,
+        "content" : "Everything negative - pressure, challenges - is all an opportunity for me to rise."
     },
-    "advice92" : {
-        "adviceId" : 92,
-        "adviceContent" : "I like criticism. It makes you strong."
+     {
+        "id" : 92,
+        "content" : "I like criticism. It makes you strong."
     },
-    "advice93" : {
-        "adviceId" : 93,
-        "adviceContent" : "You never really learn much from hearing yourself speak"
+     {
+        "id" : 93,
+        "content" : "You never really learn much from hearing yourself speak"
     },
-    "advice94" : {
-        "adviceId" : 94,
-        "adviceContent" : "Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through this."
+     {
+        "id" : 94,
+        "content" : "Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through this."
     },
-    "advice95" : {
-        "adviceId" : 95,
-        "adviceContent" : "Life is never easy. There is work to be done and obligations to be met - obligations to truth, to justice, and to liberty."
+     {
+        "id" : 95,
+        "content" : "Life is never easy. There is work to be done and obligations to be met - obligations to truth, to justice, and to liberty."
     },
-    "advice96" : {
-        "adviceId" : 96,
-        "adviceContent" : "Live for each second without hesitation."
+     {
+        "id" : 96,
+        "content" : "Live for each second without hesitation."
     },
-    "advice97" : {
-        "adviceId" : 97,
-        "adviceContent" : "Life is like riding a bicycle. To keep your balance, you must keep moving."
+     {
+        "id" : 97,
+        "content" : "Life is like riding a bicycle. To keep your balance, you must keep moving."
     },
-    "advice98" : {
-        "adviceId" : 98,
-        "adviceContent" : "Life is a succession of lessons which must be lived to be understood"
+     {
+        "id" : 98,
+        "content" : "Life is a succession of lessons which must be lived to be understood"
     },
-    "advice99" : {
-        "adviceId" : 99,
-        "adviceContent" : "Dad always said, life is like a box of chocolates. You never know what you're gonna get."
+     {
+        "id" : 99,
+        "content" : "Dad always said, life is like a box of chocolates. You never know what you're gonna get."
     },
-    "advice100" : {
-        "adviceId" : 100,
-        "adviceContent" : "Always Say - AlHamdulilah."
+    {
+        "id" : 100,
+        "content" : "Always Say - AlHamdulilah."
     },
-    "advice101" : {
-        "adviceId" : 101,
-        "adviceContent" : "Life is ten percent what happens to you and ninety percent how you respond to it."
+     {
+        "id" : 101,
+        "content" : "Life is ten percent what happens to you and ninety percent how you respond to it."
     },
-    "advice102" : {
-        "adviceId" : 102,
-        "adviceContent" : "Keep calm and carry on."
+     {
+        "id" : 102,
+        "content" : "Keep calm and carry on."
     },
-    "advice103" : {
-        "adviceId" : 103,
-        "adviceContent" : "Good friends, good books, and a sleepy conscience: this is the ideal life."
+     {
+        "id" : 103,
+        "content" : "Good friends, good books, and a sleepy conscience: this is the ideal life."
     }
-}
+]

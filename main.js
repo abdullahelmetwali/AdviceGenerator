@@ -1,16 +1,27 @@
-import advices from "./advices.json" assert {type:"json"}
+const advices = []
+
 let theDice = document.querySelector(".dice")
 let theAdvice = document.querySelector(".advice")
 let theId = document.querySelector(".id")
-// For PC and Mobile 
-let touchEvent = 'ontouchstart' in window ? 'touchstart' : 'click';
 
-function randomAdviceNumber(min,max){
-    return Math.floor(Math.random() * (max - min) + 0);
+function randomAdviceNumber(arrayLength){
+    return Math.floor(Math.random() * arrayLength + 1)
 }
 
-theDice.addEventListener(touchEvent, () =>{
-    var allAdvices = Object.entries(advices)[randomAdviceNumber(0,103)]
-    theId.innerHTML = allAdvices[1].adviceId
-    theAdvice.innerHTML = `“${allAdvices[1].adviceContent}”` 
+fetch('./advices.json')
+  .then(response => response.json())
+  .then(data => {
+
+    advices.unshift(...data)
+    theDice.addEventListener('click' , () => {
+    const num = randomAdviceNumber(103) 
+    const theSeenAdvice = advices.find(advice => advice.id === num)
+    theId.textContent = theSeenAdvice.id;
+    theAdvice.textContent = theSeenAdvice.content
 })
+  })
+  .catch(error => {
+    theAdvice.textContent = `Error : ${error.message}`
+    theAdvice.style.color = 'red'
+    document.body.appendChild(errMsg)
+  });
